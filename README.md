@@ -1,3 +1,20 @@
+
+## Added feature: 
+
+##### Add active python virtual environment name as prefix to git prompt
+
+
+##### Branch: [add-python-venv-prefix-to-git-prompt](https://github.com/asiftyro/git-prompt.zsh/tree/add-python-venv-prefix-to-git-prompt).
+
+
+
+&ndash; Asif R. Porosh
+
+
+----
+
+
+
 <h1><img src="screenshot.svg" width="800" /></h1>
 
 A fast, customizable, pure-shell, asynchronous Git prompt for Zsh.
