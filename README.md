@@ -1,8 +1,13 @@
 
 ## Added feature: 
 
-##### Add active python virtual environment name as prefix to git prompt
+##### Show  active python virtual environment name as prefix to git prompt
 
+```bash
+```bash
+┏╸(my_venv) ~/workspace/my_project · ⎇ main ‹●1357›
+┗╸❯❯❯ 
+```
 
 ##### Branch: [add-python-venv-prefix-to-git-prompt](https://github.com/asiftyro/git-prompt.zsh/tree/add-python-venv-prefix-to-git-prompt).
 
