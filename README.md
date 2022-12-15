@@ -3,7 +3,7 @@
 
 ##### Show  active python virtual environment name as prefix to git prompt
 
-]
+
 ```bash
 ┏╸(my_venv) ~/workspace/my_project · ⎇ main ‹●1357›
 ┗╸❯❯❯ 
